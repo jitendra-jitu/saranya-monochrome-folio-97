@@ -13,7 +13,7 @@ const HeroSection = () => {
           />
         </div>
         
-        <h1 className="font-heading text-4xl md:text-6xl font-bold mb-4 animate-fade-in-delay">
+        <h1 className="font-heading text-[28px] md:text-6xl font-bold mb-4 animate-fade-in-delay">
           <span className="text-foreground">Saranya</span>
           <span className="text-primary ml-2">Vallamsetty</span>
         </h1>

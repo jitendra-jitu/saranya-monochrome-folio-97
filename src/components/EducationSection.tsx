@@ -5,7 +5,7 @@ const EducationSection = () => {
     {
       degree: "CMA Inter (ICMAI)",
       status: "Cleared",
-      year: "2024",
+      year: "2025",
       institution: "Institute of Cost Accountants of India",
       highlight: true
     },
@@ -19,14 +19,14 @@ const EducationSection = () => {
     {
       degree: "Intermediate",
       status: "Completed",
-      year: "2022",
+      year: "2023",
       institution: "Sri Medha College, Guntur",
       highlight: false
     },
     {
       degree: "10th (CBSE)",
       status: "Completed",
-      year: "2020",
+      year: "2021",
       institution: "Bhashyam Blooms School",
       highlight: false
     }
